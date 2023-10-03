@@ -5,7 +5,7 @@
 <p>Imagine a machine that can craft high-quality paint autonomously, harnessing calcium extracted from factory exhaust to elevate the brilliance and longevity of the final masterpiece. No more guesswork, no more inconsistencies - just pure, consistent, and dazzling colors.</p>
 
 <h2>Mission 🌟</h2>
-<p>Our mission? To revolutionize the art of painting while championing sustainability. We're transforming carbon emissions into vibrant, long-lasting colors that can withstand the test of time and elements. Let's paint a greener future, one stroke at a time! 🌈🌍</p>
+<p>Our mission? To revolutionize the art of painting while championing sustainability. We're transforming carbon emissions into vibrant, long-lasting colors that can withstand the test of time and elements. Let's paint a greener future, one stroke at a time!</p>
 
 <h2>Crafting Brilliance 🎨</h2>
 <h4>How it Works</h4>
